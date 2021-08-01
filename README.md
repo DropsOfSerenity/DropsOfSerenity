@@ -1,4 +1,6 @@
 ### Public and Private repositories no longer on Github.
 
 I will not be hosting any of my non-work related github repositories
-on github anymore due to [Github Copilot](https://copilot.github.com/).
+on github anymore due to [Github/Microsoft Copilot](https://copilot.github.com/).
+
+* Copilot uses your code to train machine learning algorithms without your consent and despite any license on the code.
